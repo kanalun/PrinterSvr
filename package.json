@@ -1,0 +1,13 @@
+{
+  "name": "XDPrinterSvr",
+  "version": "2.6.1",
+  "description": "printerSvr",
+  "main": "./index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bufferhelper": "^0.2.1",
+    "iconv-lite": "^0.4.13"
+  }
+}
